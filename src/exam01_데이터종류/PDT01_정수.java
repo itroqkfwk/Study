@@ -26,7 +26,7 @@ public class PDT01_정수 {
 		System.out.println(07);  // 7
 		System.out.println("###########################");
 		
-		//3. 8진수 데이터 표현 ( 0~9 이용, A, B, C, D, E, F 이용 , 0x 표현)
+		//3. 16진수 데이터 표현 ( 0~9 이용, A, B, C, D, E, F 이용 , 0x 표현)
 		System.out.println(0x1);  // 1
 		System.out.println(0x2);  // 2
 		System.out.println(0x9);  // 9
